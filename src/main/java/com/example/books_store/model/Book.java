@@ -17,5 +17,4 @@ public class Book {
     private String author;
     @Column(nullable = true, name = "publicationYear")
     private int publicationYear;
-
 }
